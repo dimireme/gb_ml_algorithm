@@ -12,4 +12,6 @@
 
 [Урок 5. Случайный лес.](/lesson_5.ipynb)
 
-[Урок 6. Градиентный бустинг. AdaBoost](/lesson_6.ipynb)
+[Урок 6. Градиентный бустинг. AdaBoost.](/lesson_6.ipynb)
+
+[Урок 7. Классификация KNN. Кластеризация K-means.](/lesson_7.ipynb)
